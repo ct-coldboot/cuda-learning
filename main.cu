@@ -1,3 +1,9 @@
+/****
+ * main.cu
+ *
+ * Classic hello world with CUDA flavor
+ **/
+
 #include <iostream>
 #include <cuda_runtime.h>
 
